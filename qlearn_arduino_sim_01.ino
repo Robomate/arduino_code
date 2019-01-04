@@ -1,5 +1,6 @@
 /*
  * RL Algos: Q_Learning
+ * Simulation only!!
  * 2D Gridworld Example
  * 
  * Policy: Epsilon-Greedy Action
