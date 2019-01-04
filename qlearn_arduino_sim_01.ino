@@ -15,7 +15,7 @@
  * (3) Find Qmax of Next State    | good Q-Table
  * (4) Do Bellman Update        __|
  * 
- * HW: Servo SG90, Encoder LM393
+ * HW: 2x Servo SG90, 2x Encoder LM393
  * Author: Roboball 11/2018
  */ 
 #include<stdio.h>
